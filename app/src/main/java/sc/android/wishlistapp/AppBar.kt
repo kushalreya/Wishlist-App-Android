@@ -46,7 +46,7 @@ fun AppBarView(
                 color = colorResource(id = android.R.color.black),
                 modifier = Modifier
                     .padding(start = 4.dp)
-                    .heightIn(max = 28.dp)
+                    .heightIn(max = 29.dp)
             )
         },
         windowInsets = WindowInsets(top = 30.dp),
